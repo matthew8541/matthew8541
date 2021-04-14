@@ -1,4 +1,4 @@
-👋 Hi, I’m Yeong Jer Tseng, currently studying a MS in Computational Science and Engineering at Georgia Tech
+👋 Hi, I’m Yeong Jer Tseng, currently studying a MS in Computational Science and Engineering at Georgia Tech \
 👀 I’m interested in Full-Stack Development, Data Analytics, and Machine Learning.
 
 <!---
